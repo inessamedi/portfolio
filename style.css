@@ -228,3 +228,7 @@ a {
         justify-content: center;
     }   
 }
+
+.img-hor {
+  transform: rotateY(180deg); /* Rotate 180 degrees along the y-axis*/
+}
